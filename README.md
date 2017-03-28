@@ -1,5 +1,8 @@
 #SLIDER
 
+Node -v i used : 7.7.1
+npm : v.4.3.0
+
 Getting started:
 
 1. clone this repo
