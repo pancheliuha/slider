@@ -1,0 +1,20 @@
+
+//==============
+//  colors   
+//==============
+
+$main: #20b5b0;
+$lightenMain: lighten($main, 30%);
+$darkenMain: lighten($main, 30%);
+
+
+@import "common/_mixins";
+@import "common/animation";
+@import "common/fonts";
+@import "common/extends";
+@import "common/adjustment";
+
+
+
+//styles
+@import "sections/**/*.scss";
